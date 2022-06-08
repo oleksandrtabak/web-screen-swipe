@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 1rem;
+  font-family: sans-serif;
+}
+
+/* Тимчасово для перевірки */
+p {
+  display: inline-block;
+  margin: 15px;
+  padding: 10px 7px;
+  background-color: orangered;
+  color: white;
+}
